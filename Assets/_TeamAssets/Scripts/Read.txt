@@ -1,1 +1,3 @@
 Aproveitei o InputSystem automatico que o projeto criou para desenvolver os controles do jogo
+
+Infelizmente não tive tempo o suficiente para poder tentar reescrever o código para poder ficar mais legivel
