@@ -1,0 +1,1 @@
+Aproveitei o InputSystem automatico que o projeto criou para desenvolver os controles do jogo
